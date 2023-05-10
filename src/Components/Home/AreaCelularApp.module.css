@@ -23,6 +23,7 @@
     font-family: Poppins;
     padding-top: 30px;
     padding-bottom: -5px;
+    font-weight: 200;
 }
 
 .textoMenorCelular{
@@ -30,6 +31,7 @@
     font-size: 32px;
     font-family: Poppins;
     margin: 0;
+    font-weight: 100;       
 }
 
 .areaImagemCelular{

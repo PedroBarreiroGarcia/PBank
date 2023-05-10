@@ -38,6 +38,10 @@
     margin-bottom: 50px;
 }
 
+.cartao:hover{
+    box-shadow: 16px 16px 25px rgba(255, 215, 0, 0.19);
+}
+
 .tituloCartao{
     color: #FFD700;
     font-family: Poppins;

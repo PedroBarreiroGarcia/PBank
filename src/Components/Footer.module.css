@@ -65,6 +65,12 @@
 .areaIcone{
     width: 13%;
     height: 35px;
+    cursor: pointer;
+}
+
+.areaIcone:hover{
+    scale: 1.15;
+    transition: 0.5s;
 }
 
 img{

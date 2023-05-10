@@ -55,6 +55,10 @@ li{
     cursor: pointer;
 }
 
+li:hover{
+    color: #ffed94;
+}
+
 .AreaBotaoConta{
     width: 20%;
     height: 80px;

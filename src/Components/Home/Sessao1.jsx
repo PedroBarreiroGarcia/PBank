@@ -1,3 +1,4 @@
+// import {Link} from 'react-router-dom'
 import style from "./Sessao1.module.css"
 
 function Sessao1(){
@@ -12,7 +13,9 @@ function Sessao1(){
                         PBank
                     </h1>
 
+                {/* <Link to='/AbrirConta'> */}
                     <button className={style.BotaoSessao1}>Abrir conta</button>
+                {/* </Link>                     */}
 
                 </div>
             </div>

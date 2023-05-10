@@ -7,7 +7,6 @@
 .AreaImgCartao{
     width: 45%;
     height: 670px;
-    /* background-color: aquamarine; */
     float: left;
     display: flex;
     justify-content: space-around;
@@ -19,10 +18,6 @@
 .ImgCartao{
     width: 650px;
     height: 420px;
-    /* background-color: coral; */
-    /* background-image: url(./ImagensHome/Cartão_pedro.svg);
-    background-size: contain;
-    background-repeat: no-repeat; */
 }
 
 .AreaVantagensPcard{
