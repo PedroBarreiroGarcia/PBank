@@ -52,8 +52,6 @@
 .areaImgSessao1{
     width: 60%;
     height: 700px;
-    /* background-color: rgb(77, 194, 73); */
-    /* background-image: url(../Imagens/componenteMulherHome.png); */
     float: left;
     display: flex;
     flex-direction: row;
@@ -64,7 +62,6 @@
     width: 90%;
     height: 596px;
     margin-top: 80px;
-    /* background-color: #0095f9; */
-    background-image: url(./ImagensHome/componenteMulherHome.png);
+    background-image: url(./ImagensHome/imgMulherHome.png);
     background-size:contain;
 }

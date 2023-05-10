@@ -3,11 +3,16 @@ import cartao from "./ImagensHome/iconeCartao.png"
 import cashBack from "./ImagensHome/iconeCashBack.svg"
 import aviao from "./ImagensHome/iconeAviao.png" 
 import parcelamento from "./ImagensHome/iconeParcelamento.png"
+import Cartao from "./ImagensHome/Cartao_pedro.svg"
 
 function SessaoPcard(){
     return(
     <div className={style.SessaoPcard}>
-        <div className={style.AreaImgCartao}></div>
+        <div className={style.AreaImgCartao}>
+            <div className={style.ImgCartao}>
+                <img src={Cartao} alt="" />
+            </div>
+        </div>
 
         <div className={style.AreaVantagensPcard}>
             <div className={style.AreaTextosMaioresCard}>
