@@ -1,0 +1,105 @@
+.SessaoPcard{
+    width: 100%;
+    height: 670px;
+    background-color: #fafafa;
+}
+
+.AreaImgCartao{
+    width: 45%;
+    height: 615px;
+    background-color: aquamarine;
+    float: left;
+}
+
+.AreaVantagensPcard{
+    width: 55%;
+    height: 500px;
+    float: left;
+}
+
+.AreaTextosMaioresCard{
+    width: 100%;
+    height: auto;
+    background-color: #fafafa;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+.TextoMaiorPreto{
+    color: #000;
+    font-size: 45px;
+    font-family: Poppins;
+    float: left;
+}
+
+.TextoMaiorAmarelo{
+    color: #FFD700;
+    font-size: 55px;
+    font-family: Poppins;
+    float: left;
+    margin: -9px 0 0 12px; 
+}
+
+.TextoMenorPreto{
+    color: #000;
+    font-size: 25px;
+    font-family: Poppins;
+    float: left;
+}
+
+.AreaTextosMenoresCard{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.AreaCardsVantagens{
+    width: 78%;
+    height: 180px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 25px;
+    margin: auto;
+}
+
+.Card{
+    width: 260px;
+    height: 180px;
+    background-color: #FFD700;
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.areaIcone{
+    width: 40px;
+    height: 40px;
+    /* background-color: #fafafa; */
+    margin: 30px 0 5px 20px;
+}
+
+.areaIcone img{
+    width: 100%;
+    height: 100%;
+}
+
+.textoMaiorCard{
+    font-family: Poppins;
+    font-size: 22px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+
+.textoMenorCard{
+    font-family: Poppins;
+    font-size: 14px;
+    margin-left: 20px;
+}

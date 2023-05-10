@@ -1,0 +1,51 @@
+.AreaCelularApp{
+    width: 100%;
+    height: 600px;
+    background-color: #FFD700;
+    box-sizing: border-box;
+}
+
+.areaTextoCelular{
+    width: 55%;
+    height: 600px;
+    float: left;
+}
+
+.espacoTextoCelular{
+    width: 80%;
+    height: auto;
+    margin: auto;
+}
+
+.textoGrandeCelular{
+    color: #000000;
+    font-size: 60px;
+    font-family: Poppins;
+    padding-top: 30px;
+    padding-bottom: -5px;
+}
+
+.textoMenorCelular{
+    color: #000000;
+    font-size: 32px;
+    font-family: Poppins;
+    margin: 0;
+}
+
+.areaImagemCelular{
+    width: 45%;
+    height: 600px;
+    float: left;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.espacoImgCelular{
+    width: 85%;
+    height: 500px;
+    background-image: url(./ImagensHome/componenteAppCelular.png);
+    background-size: contain;
+    
+}

@@ -1,0 +1,65 @@
+.AreaEmpresarial{
+    width: 100%;
+    height: 550px;
+    background-color: #fafafa;
+}
+
+.areaImagemEmpresarial{
+    width: 50%;
+    height: 550px;
+    float: left;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.areaImgEmpresarial{
+    width: 80%;
+    height: 450px;
+    /* background-color: darkgreen; */
+    background-image: url(./ImagensHome/componenteMulherEmpresarial.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 68px;
+}
+
+.areaTextosEmpresarial{
+    width: 50%;
+    height: 400px;
+    float: left;
+}
+
+.espacoTextoEmpresarial{
+    width: 75%;
+    height: 400px;
+    align-items: center;
+    display: flex;
+    margin: auto; 
+    margin-top: 40px;
+    /* background-color: darkolivegreen; */
+}
+
+.textoEmpresarial{
+    color: #000000;
+    font-size: 60px;
+    font-family: Poppins;
+}
+
+.areaBotaoEmpresarial{
+    width: 75%;
+    height: 50px;
+    display: flex;
+    margin: auto;
+    /* background-color: cyan; */
+}
+
+.BotaoSessao1{
+    width: 246.66px;
+    height: 50px;
+    background-color: #F9CF00;
+    color: #000;
+    font-family: Poppins;
+    font-size: 22px;
+    border-radius: 10px;
+}

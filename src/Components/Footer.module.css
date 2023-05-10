@@ -1,0 +1,134 @@
+.AreaFooter{
+    width: 100%;
+    height: 300px;
+    background-color: #000;
+}
+
+.areaLogoRedeSociais{
+    width: 25%;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    float: left;
+}
+
+.areaLogo{
+    width: 100%;
+    height: 120px;
+    padding: 20px 40px;
+    box-sizing: border-box;
+}
+
+.textoLogo{
+    color: #F9CF00;
+    margin: 0;
+    font-family: Roboto;
+    font-size: 70px;
+    font-weight: 500;
+}
+
+.areaRedesSociais{
+    width: 100%;
+    height: 180px;
+    box-sizing: border-box;
+}
+
+.areaTituloRedesSociais{
+    width: 100%;
+    height: auto;
+    padding-left:40px;
+    box-sizing: border-box;
+}
+
+.textoRedesSociais{
+    color: #F9CF00;
+    margin: 0;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.areaIconesRedesSociais{
+    width: 90%;
+    height: 35px;
+    margin: auto;
+    margin-left:28px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.areaIcone{
+    width: 13%;
+    height: 35px;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+
+.AreaNossosProdutos{
+    width: 25%;
+    height: 300px;
+    float: left;
+}
+
+.textoTituloFooter{
+    color: #F9CF00;
+    font-size: 32px;
+    font-family: Poppins;
+    margin-left: 50px;
+    font-weight: 500;
+}
+
+.textoTextoFooter{
+    color: #ffffff;
+    font-size: 18px;
+    font-family: Poppins;
+    margin-left: 50px;
+    line-height: 0.9;
+    font-weight: 100;
+    cursor: pointer;
+}
+
+.textoTextoFooter:hover{
+    color: #F9CF00;
+}
+
+.CentralDeAjuda{
+    width: 25%;
+    height: 300px;
+    float: left;
+}
+
+.AreaInstitucional{
+    width: 25%;
+    height: 300px;
+    float: left;
+}
+
+.areaEndereco{
+    width: 100%;
+    height: 50px;
+    border-top: 3px solid #F9CF00;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    float: left;
+    background-color: #000;
+}
+
+.textoEndereco{
+    font-family: Poppins;
+    font-size: 12px;
+    color: #F9CF00;
+    margin-top: 20px;
+    padding-bottom: 15px;
+    font-weight: 100;
+}

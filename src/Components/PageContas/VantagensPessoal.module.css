@@ -1,0 +1,58 @@
+.VantagensPessoal{
+    width: 100%;
+    height: 500px;
+    background-color: #FFD700;
+}
+
+.areaTextoVantagensPessoal{
+    width: 45%;
+    height: 500px;
+    float: left;
+}
+
+.areaTituloPessoal{
+    width: 100%;
+    height: 180px;
+}
+.tituloPessoal{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px; 
+    padding: 40px;
+}
+
+.TextoLogo{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 55px;
+}
+
+.areaTextoPessoal{
+    width: 100%;
+    height: 280px;
+    margin: auto;
+}
+
+.textoPessoal{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 38px;
+    padding-left: 40px;
+}
+
+.textoPessoal::before {
+    content: "•";
+    margin-right: 5px;
+  }
+
+.areaImgVantagensPessoal{
+    width: 55%;
+    height: 500px;
+    background-image: url(./ImagensPageContas/ImagemPessoal.jpg);
+    background-size: cover;
+    float: left;
+}

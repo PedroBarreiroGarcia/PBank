@@ -1,0 +1,136 @@
+.AppCelular{
+    width: 100%;
+    height: auto;
+    background-color: #fafafa;
+    margin-top: 70px;
+}
+
+.areaTitulo{
+    width: 80%;
+    height: 200px;
+    text-align: center;
+    margin: auto;
+}
+
+.TextoTitulo{
+    font-family: Poppins;
+    font-size: 45px;
+    color: #000;
+    font-weight: 100;
+    padding-top: 50px;
+}
+
+.areaTexto{
+    width: 90%;
+    height: 50px;
+    text-align: center;
+    margin: auto;
+}
+
+.Texto{
+    font-family: Poppins;
+    font-size: 25px;
+    color: #000;
+    font-weight: 100;
+    margin: auto;
+}
+
+.areaIconesApp{
+    width: 90%;
+    height: 120px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content:space-around;
+}
+
+.espacoIcone{
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+}
+
+.areaCelulares{
+    width: 90%;
+    height: 700px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 0;
+}
+
+.espacoCelular{
+    width: 31.5%;
+    height: 700px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.areaLojaApps{
+    width: 90%;
+    height: 150px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.espacoLojaApps{
+    width: 30%;
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.areaQRcode{
+    width: 40%;
+    height: 150px;
+    background-image: url(./ImagensPageContas/QRCode.png);
+    background-size: cover;
+}
+
+.espacoImgLojaApp{
+    width: 200px;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.ImgLojaApp{
+    width: 200px;
+    height: 70px;
+}
+
+.areaTextoQRcode{
+    width: 90%;
+    height: 100px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+}
+
+.espacoTextoQRcode{
+    width: 40%;
+    height: 80px;
+    text-align: center;
+}
+
+.TextoQRcode{
+    margin: 0;
+    font-size: 22px;
+    font-family: Poppins;
+    font-weight: 100;
+}
+
+.TextoQRcodeAmarelo{
+    font-size: 22px;
+    font-family: Poppins;
+    font-weight: 100;
+    color: #FFD700;
+}
