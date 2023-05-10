@@ -13,10 +13,10 @@ function VantagensEmpresarial(){
             </div>
             <div className={style.areaTextoEmpresarial}>
 
-                <p className={style.textoEmpresarial}>Seu dinheiro em um lugar seguro</p>
-                <p className={style.textoEmpresarial}>Parcelamento dos boletos em até 12x</p>
-                <p className={style.textoEmpresarial}>Cartão de crédito e débito em um só lugar</p>
-                <p className={style.textoEmpresarial}>Diversos serviços na nossa plataforma</p>
+                <p className={style.textoEmpresarial}>Cartão personalizado para a empresa</p>
+                <p className={style.textoEmpresarial}>Pix gratuito e ilimitado</p>
+                <p className={style.textoEmpresarial}>100 TEDs e 100 boletos por mês </p>
+                <p className={style.textoEmpresarial}>Gestão de acessos e aprovações</p>
             </div>
         </div>
         
